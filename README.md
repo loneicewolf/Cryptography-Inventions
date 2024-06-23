@@ -1,5 +1,5 @@
 # Cryptography-Inventions
-Me &amp; My Friends Ideas in Cryptograpgy
+Me &amp; My Friends Ideas in Cryptography
 
 NOTE this will only be ideas, not practical things, cuz (one does not invent own crypto) but interesting ideas only. `^_^`
 
